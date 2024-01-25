@@ -1,4 +1,6 @@
 fileignoreconfig:
 - filename: mvnw
   checksum: 9a0e968807e91279b4856750466e5aab9eeac7305e4ec8463979cb7cb0525f67
+- filename: target/surefire-reports/TEST-com.example.demo.DemoApplicationTests.xml
+  checksum: d92a8a79f911c9fd28e7d5a42b9a683d0591055ead87e50cde1bad163697393c
 version: ""
